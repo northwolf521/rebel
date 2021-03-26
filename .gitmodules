@@ -1,7 +1,7 @@
 [submodule "third_party/pybind11"]
 	path = third_party/pybind11
-	url = https://github.com/facebookresearch/rebel.git
+	url = https://github.com/northwolf521/rebel.git
 	branch = v2.3
 [submodule "third_party/googletest"]
 	path = third_party/googletest
-	url = https://github.com/facebookresearch/googletest.git
+	url = https://github.com/northwolf521/googletest.git
